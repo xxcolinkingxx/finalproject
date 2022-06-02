@@ -1,7 +1,7 @@
 title: Colin Carlson
 author: Colin Carlson
 email: colincarlson01@gmail.com
-theme: minima
+theme: jekyll-theme-
 description: > # this means to ignore newlines until "baseurl:"
   This is an amazing description for my website! :-)
 
