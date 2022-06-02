@@ -9,3 +9,5 @@ My name is Colin Carlson
 
 ![Image](https://github.com/xxcolinkingxx/github-pages-with-jekyll/blob/main/Assets/walt.jpg?raw=true)
 
+![Image](https://github.com/xxcolinkingxx/github-pages-with-jekyll/blob/main/Assets/ant.jpg?raw=true)
+
