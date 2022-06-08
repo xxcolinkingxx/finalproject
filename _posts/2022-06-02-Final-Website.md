@@ -7,6 +7,6 @@ My name is Colin Carlson
 
 (Insert Image Here)
 
-(Insert Social Media information Here)
-
-(Add Brag Sheet Here)
+Email: colincarlson01@gmail.com
+Github: xxcolinkingxx
+Instagram: xxcolinkingxx
