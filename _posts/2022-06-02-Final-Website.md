@@ -5,7 +5,7 @@ date: 2022-06-02
 
 My name is Colin Carlson
 
-![Image](me.jpg)
+![Image](https://github.com/xxcolinkingxx/finalproject/blob/main/Assets/me.jpg?raw=true)
 
 Email: colincarlson01@gmail.com
 
