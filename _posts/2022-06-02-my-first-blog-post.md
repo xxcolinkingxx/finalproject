@@ -10,6 +10,3 @@ You got trolled!
 
 Jesse, we need to cook.
 
-![Image](https://github.com/xxcolinkingxx/github-pages-with-jekyll/blob/main/Assets/ant.jpg?raw=true)
-
-Hello Anthony!
